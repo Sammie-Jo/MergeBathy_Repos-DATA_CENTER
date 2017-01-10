@@ -1,3 +1,16 @@
+# Mercurial files
+.hg*
+DATA*
+EPR*
+IBCAO*
+Temp*
+Porto*
+NCEX*
+MTrench*
+JetSki*
+
+*gitignore
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
